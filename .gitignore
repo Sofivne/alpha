@@ -1,0 +1,11 @@
+# Godot 4+ specific ignores
+.godot/
+# Mono specific
+**/*.mono.metadata
+.mono/
+**/*.csproj
+**/*.sln
+
+# Godot-specific ignores
+.import/
+export_presets.cfg
