@@ -9,3 +9,6 @@
 # Godot-specific ignores
 .import/
 export_presets.cfg
+
+#visual studio
+.vs/
